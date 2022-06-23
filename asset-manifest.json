@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Serbeld/scotiabank-react/static/css/main.34e718ee.css",
-    "main.js": "/Serbeld/scotiabank-react/static/js/main.a4979524.js",
-    "index.html": "/Serbeld/scotiabank-react/index.html",
-    "main.34e718ee.css.map": "/Serbeld/scotiabank-react/static/css/main.34e718ee.css.map",
-    "main.a4979524.js.map": "/Serbeld/scotiabank-react/static/js/main.a4979524.js.map"
+    "main.css": "/scotiabank-react/static/css/main.34e718ee.css",
+    "main.js": "/scotiabank-react/static/js/main.a4979524.js",
+    "index.html": "/scotiabank-react/index.html",
+    "main.34e718ee.css.map": "/scotiabank-react/static/css/main.34e718ee.css.map",
+    "main.a4979524.js.map": "/scotiabank-react/static/js/main.a4979524.js.map"
   },
   "entrypoints": [
     "static/css/main.34e718ee.css",
